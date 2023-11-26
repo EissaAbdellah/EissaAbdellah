@@ -23,7 +23,8 @@
 
 - 💬 Ask me about **C#,SQL,.NET Core and Angular**
 
-- 📫 How to reach me **eissa2020482@gmail.com**
+- 📫 How to reach me **+201113741294**
+- Email     **eissa2020482@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
